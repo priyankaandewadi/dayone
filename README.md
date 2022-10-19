@@ -2,7 +2,7 @@
 learnings about github and licences
 
 ## Github Introduction
-###*Githu is a code hosting platform for version control and collaboration.It lets you and others work together on projects from anywhere.*
+###*GitHub is a code hosting platform for version control and collaboration.It lets you and others work together on projects from anywhere.*
 
 *This tutoril teachers you Github essentials like repositories,branches,commits,and pull request.
 It will creat you own Hello world repository and learn Github pull request workflow,a populer way to creat and review code.*
